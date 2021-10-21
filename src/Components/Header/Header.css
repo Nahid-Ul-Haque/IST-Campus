@@ -1,0 +1,29 @@
+.header-name img{
+    margin-left: 40px;
+}
+.header-name h4{
+    font-weight: 800;
+}
+.header-name p{
+    color: gray;
+}
+.btn-search{
+    color: orangered;
+    background-color: black;
+    padding: 5px;
+    border: none;
+}
+.search-input{
+    margin-top: 20px;
+    margin-left: 250px;
+    width: 50%;
+    border: 0.5px solid gray;
+    padding: 5px;
+    border-radius: 5px;
+}
+.btn-search:hover{
+    background-color: orangered;
+    color: black;
+    border: none;
+    padding: 6px;
+}

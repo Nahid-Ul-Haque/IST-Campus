@@ -1,0 +1,181 @@
+[
+    {
+        "name": "Dr. Shahida Rafique",
+        "street": "248 Ebba Common",
+        "city": "Rennermouth",
+        "zip": 97233,
+        "img": "https://ist.edu.bd/wp-content/uploads/2017/11/dr-shahida-rafique.jpg",
+        "user_name": "Katrine.Bode",
+        "user_id": "Noemi.Kovacek@gmail.com",
+        "Profession": "Emeritus Professor",
+        "Dept": "Department of Electronics and Communication Engineering",
+        "favorite_colors": [
+            "#5b6d00",
+            "#07537b",
+            "#13171a",
+            "#516a62",
+            "#254a78"
+        ],
+        "reg_date": "Thu May 20 2010 03:53:43 GMT+0200 (Central European Summer Time)",
+        "sign_ups": {
+            "newsletter": true
+        }
+    },
+    {
+        "name": "Dr. Md. Yunus Miah",
+        "street": "34468 Murray Plain",
+        "city": "Garryfurt",
+        "zip": 44240,
+        "img": "https://ist.edu.bd/wp-content/uploads/2017/11/Dr.-Yunus.jpg",
+        "user_name": "Shaylee73",
+        "catch_phrase": "The GB firewall is down, parse the 1080p application so we can parse the COM bus!",
+        "user_id": "Jimmy_Ryan29@hotmail.com",
+        "Profession": "Director - Diploma Program",
+        "Dept": "Department of Diploma Engineering",
+        "favorite_colors": [
+            "#174758",
+            "#6f194b"
+        ],
+        "reg_date": "Tue Mar 17 2015 09:09:52 GMT+0100 (Central European Standard Time)",
+        "sign_ups": {
+            "newsletter": false
+        }
+    },
+    {
+        "name": "Runa Rukshana Khan",
+        "street": "955 Stehr Circle",
+        "city": "Kassulkeborough",
+        "zip": 99621,
+        "img": "https://ist.edu.bd/wp-content/uploads/2017/11/runa_rukhsana.jpg",
+        "user_name": "Lucius70",
+        "catch_phrase": "calculating the bus won't do anything, we need to back up the virtual XSS interface!",
+        "user_id": "Joanne97@hotmail.com",
+        "Profession": "Deputy Director - Academic & Associate Professor",
+        "Dept": "Department of Electronics and Communication Engineering",
+        "favorite_colors": [
+            "#55422f",
+            "#301573",
+            "#473a78"
+        ],
+        "reg_date": "Sat Nov 01 2014 04:37:21 GMT+0100 (Central European Standard Time)",
+        "sign_ups": {
+            "newsletter": false
+        }
+    },
+    {
+        "name": "S. M. Ziaul Hasan",
+        "street": "991 Vesta Coves",
+        "city": "East Bernieside",
+        "zip": 12294,
+        "img": "https://ist.edu.bd/wp-content/uploads/2017/11/ZiaulHasan.jpg",
+        "user_name": "Raphael_Parker",
+        "catch_phrase": "Use the digital SAS program, then you can compress the online feed!",
+        "user_id": "Catherine_Turcotte@hotmail.com",
+        "Profession": "Deputy Director - Administration & Associate Professor",
+        "Dept": "Department of Business Administration",
+        "favorite_colors": [
+            "#3a6b59"
+        ],
+        "reg_date": "Sat Apr 25 2015 07:39:56 GMT+0200 (Central European Summer Time)",
+        "sign_ups": {
+            "newsletter": true
+        }
+    },
+    {
+        "name": "Dr. Galib Hashmi",
+        "street": "66588 Alexandrea Harbors",
+        "city": "New Frederikbury",
+        "zip": 28584,
+        "img": "https://ist.edu.bd/wp-content/uploads/2017/11/Galib-Hashmi.jpg",
+        "user_name": "Gladyce1",
+        "catch_phrase": "Use the optical COM alarm, then you can generate the digital sensor!",
+        "user_id": "Mallory_Mueller@hotmail.com",
+        "Profession": "Associate Professor & Head of the Department",
+        "Dept": "Department of Electronics and Communication Engineering",
+        "favorite_colors": [
+            "#14184b",
+            "#1f4c71",
+            "#075869",
+            "#025210"
+        ],
+        "reg_date": "Tue Apr 13 2010 04:39:08 GMT+0200 (Central European Summer Time)",
+        "sign_ups": {
+            "newsletter": false
+        }
+    },
+    {
+        "name": "Nusrat Ferdous",
+        "street": "77989 Denesik Run",
+        "city": "Port Charity",
+        "zip": 36075,
+        "img": "https://ist.edu.bd/wp-content/uploads/2017/11/Nusrat_Ferdous.jpg",
+        "user_name": "Kip_Anderson46",
+        "user_id": "Ludie.Mann72@yahoo.com",
+        "Profession": "Assistant Professor (Study Leave)",
+        "Dept": "Department of Electronics and Communication Engineering",
+        "favorite_colors": [
+            "#223432",
+            "#1f4c25",
+            "#3c214f",
+            "#0b6e43"
+        ],
+        "reg_date": "Mon Aug 16 2010 19:04:18 GMT+0200 (Central European Summer Time)",
+        "sign_ups": {
+            "newsletter": false
+        }
+    },
+    {
+        "name": "Md. Rakib Hossain",
+        "street": "332 Ziemann Squares",
+        "city": "Torpton",
+        "zip": 64000,
+        "img": "https://ist.edu.bd/wp-content/uploads/2017/11/Md.-Rakib-Hossain.jpg",
+        "user_name": "Vincent.Wehner35",
+        "user_id": "Davion.Abbott@gmail.com",
+        "Profession": "Lecturer",
+        "Dept": "Department of Electronics and Communication Engineering",
+        "favorite_colors": [
+            "#30072a"
+        ],
+        "reg_date": "Mon Apr 13 2015 08:01:54 GMT+0200 (Central European Summer Time)",
+        "sign_ups": {
+            "newsletter": true
+        }
+    },
+    {
+        "name": "Abu Hena Md. Mustafa Kamal",
+        "street": "332 Ziemann Squares",
+        "city": "Torpton",
+        "zip": 64012,
+        "img": "https://ist.edu.bd/wp-content/uploads/2017/11/IMG_2778.jpg",
+        "user_name": "Vincent.Wehner35",
+        "user_id": "Davion.Abbott@gmail.com",
+        "Profession": "Lecturer",
+        "Dept": "Department of Electronics and Communication Engineering",
+        "favorite_colors": [
+            "#30072a"
+        ],
+        "reg_date": "Mon Apr 13 2015 08:01:54 GMT+0200 (Central European Summer Time)",
+        "sign_ups": {
+            "newsletter": true
+        }
+    },
+    {
+        "name": "Md. Shawkot Hossain",
+        "street": "332 Ziemann Squares",
+        "city": "Torpton",
+        "zip": 64045,
+        "img": "https://ist.edu.bd/wp-content/uploads/2021/09/D-110881.jpg",
+        "user_name": "Vincent.Wehner35",
+        "user_id": "Davion.Abbott@gmail.com",
+        "Profession": "Faculty Member",
+        "Dept": "Department of Electronics and Communication Engineering",
+        "favorite_colors": [
+            "#30072a"
+        ],
+        "reg_date": "Mon Apr 13 2015 08:01:54 GMT+0200 (Central European Summer Time)",
+        "sign_ups": {
+            "newsletter": true
+        }
+    }
+]

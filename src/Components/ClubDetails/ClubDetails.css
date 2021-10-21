@@ -1,0 +1,17 @@
+.club-section p{
+    width: 50%;
+    margin-left: 25%;
+    padding: 30px;
+    color: black;
+    font-weight: 500;
+}
+.club-section h2{
+    color: crimson;
+    font-weight: 700;
+    font-style: italic;
+}
+.club-section ul li{
+    color: darkblue;
+    margin-left: 30%;
+    margin-right: 30%;
+}

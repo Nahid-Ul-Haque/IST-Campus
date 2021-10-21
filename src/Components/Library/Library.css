@@ -1,0 +1,22 @@
+.library-para{
+    width: 50%;
+    margin-left: 25%;
+    padding: 30px;
+    color: black;
+}
+.library-bg{
+    background-color:floralwhite;
+}
+.library-bg h3{
+    color: crimson;
+    font-weight: 700;
+    font-style: italic;
+}
+.faculty-nm h2{
+    color:crimson;
+    font-weight: 700;
+    font-style: italic;
+}
+.faculty-nm{
+    background-color: floralwhite;
+}

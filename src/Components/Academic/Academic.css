@@ -1,0 +1,11 @@
+.academic-section{
+    padding: 60px;
+}
+.academic-section h1{
+    color: crimson;
+    font-weight: 700;
+    font-style: italic;
+}
+.academic-section li{
+    margin-left: 1em;
+}

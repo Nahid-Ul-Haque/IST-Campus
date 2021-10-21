@@ -1,0 +1,11 @@
+.contact-details p{
+    font-weight: 600;
+    font-style: italic;
+    margin-left: 10%;
+    width: 60%;
+}
+.contact-details h2{
+    color: crimson;
+    font-weight: 700;
+    font-style: italic;
+}
